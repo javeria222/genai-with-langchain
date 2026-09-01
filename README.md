@@ -16,8 +16,8 @@ A conversational AI app built with **LangChain**, **Streamlit**, and the **Groq 
 
 ## Screenshots
 
-![Interface Screenshot 1](output/genaiImg1.JPG)
-![Interface Screenshot 2](output/genaiImg2.JPG)
+![Interface Screenshot 1](output/genaiImg1.jpg)
+![Interface Screenshot 2](output/genaiImg2.jpg)
 
 ## Run
 
